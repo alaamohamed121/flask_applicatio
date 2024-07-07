@@ -6,3 +6,5 @@ fastapi
 uvicorn
 gunicorn==21.1.0
 Werkzeug==1.0.1
+Flask
+markupsafe==2.0.1
